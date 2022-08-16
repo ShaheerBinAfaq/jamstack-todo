@@ -1,0 +1,12 @@
+{
+  "name": "jamstack-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShaheerBinAfaq/jamstack-todo.git",
+  "author": "ShaheerBinAfaq <shaheerafaq@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
